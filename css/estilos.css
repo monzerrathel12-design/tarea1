@@ -1,0 +1,26 @@
+h1{
+    background-color:red;
+    color: black;
+    padding:20px;
+    margin:30px;
+    border:10px;   
+    border-style:dashed;
+    border-color: blue;
+}
+h2{
+    color: rgb(17, 3, 1);
+    background-color: rgb(37, 173, 90);
+    padding: 20px;
+    margin: 30px;
+    border: 10px;   
+    border-style: dashed;
+    border-color: rgb(241, 36, 231);
+}
+img{
+    width: 800px;
+    height: 500px;
+}
+p{
+    color: rgb(0, 0, 0);
+    background-color: rgb(204, 207, 23);
+}
